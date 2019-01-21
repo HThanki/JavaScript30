@@ -4,3 +4,5 @@ This repo consists of my JavaScript side projects from JavaScript30.com without 
 Projects outlined below:
 
 <a href="https://hthanki.github.io/js30/01DrumKit/">JS Drum Kit</a>
+
+<a href="https://hthanki.github.io/js30/02JSClock/">JS Clock</a>
