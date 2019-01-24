@@ -6,3 +6,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/01DrumKit/" target="_blank">JS Drum Kit</a>
 
 <a href="https://hthanki.github.io/js30/02JSClock/" target="_blank">JS Clock</a>
+
+<a href="https://hthanki.github.io/js30/02CSSVariables/" target="_blank">CSS Variables</a>
