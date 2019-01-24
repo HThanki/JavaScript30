@@ -7,4 +7,4 @@ Projects outlined below:
 
 <a href="https://hthanki.github.io/js30/02JSClock/" target="_blank">JS Clock</a>
 
-<a href="https://hthanki.github.io/js30/02CSSVariables/" target="_blank">CSS Variables</a>
+<a href="https://hthanki.github.io/js30/03CSSVariables/" target="_blank">CSS Variables</a>
