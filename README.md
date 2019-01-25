@@ -10,3 +10,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/03CSSVariables/" target="_blank">CSS Variables</a>
 
 <a href="https://hthanki.github.io/js30/04ArrayCardioDay1/" target="_blank">Array Cardio Day 1</a>
+
+<a href="https://hthanki.github.io/js30/05FlexPanelGallery/" target="_blank">Flex Panel Gallery</a>
