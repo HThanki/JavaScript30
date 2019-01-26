@@ -12,3 +12,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/04ArrayCardioDay1/" target="_blank">Array Cardio Day 1</a>
 
 <a href="https://hthanki.github.io/js30/05FlexPanelGallery/" target="_blank">Flex Panel Gallery</a>
+
+<a href="https://hthanki.github.io/js30/06AjaxTypeAhead/" target="_blank">Ajax Type Ahead</a>
