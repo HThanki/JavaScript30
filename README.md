@@ -20,3 +20,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/08HTML5Canvas/" target="_blank">Fun with HTML5 Canvas</a>
 
 <a href="https://hthanki.github.io/js30/09DevToolsDomination/" target="_blank">Dev Tools Domination</a>
+
+<a href="https://hthanki.github.io/js30/10JSCheckCheckboxes/" target="_blank">JS Check Checkboxes</a>
