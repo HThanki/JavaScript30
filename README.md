@@ -24,3 +24,7 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/10JSCheckCheckboxes/" target="_blank">JS Check Checkboxes</a>
 
 <a href="https://hthanki.github.io/js30/11CustomVideoPlayer/" target="_blank">Custom Video Player</a>
+
+<a href="https://hthanki.github.io/js30/12KeySequenceDetection/" target="_blank">Key Sequence Detection</a>
+
+<a href="https://hthanki.github.io/js30/13SlideScroll/" target="_blank">Slide in on Scroll</a>
