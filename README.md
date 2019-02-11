@@ -30,3 +30,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/13SlideScroll/" target="_blank">Slide in on Scroll</a>
 
 <a href="https://hthanki.github.io/js30/15LocalStorage/" target="_blank">Local Tapas Local Storage</a>
+
+<a href="https://hthanki.github.io/js30/16MouseMoveShadow/" target="_blank">Mouse Move Shadow</a>
