@@ -36,3 +36,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/17SortWithoutArticles/" target="_blank">Sort Without Articles</a>
 
 <a href="https://hthanki.github.io/js30/19WebcamFun/" target="_blank">Webcam Fun</a>
+
+<a href="https://hthanki.github.io/js30/20SpeechDetection/" target="_blank">Speech Detection</a>
