@@ -42,3 +42,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/21Geolocation/" target="_blank">Geolocation Speedometer and Compass</a>
 
 <a href="https://hthanki.github.io/js30/22FollowAlongLinkHighlighter/" target="_blank">Follow Along Link Highlighter</a>
+
+<a href="https://hthanki.github.io/js30/23SpeechSynthesis/" target="_blank">Speech Synthesis</a>
