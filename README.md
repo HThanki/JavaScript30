@@ -44,3 +44,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/22FollowAlongLinkHighlighter/" target="_blank">Follow Along Link Highlighter</a>
 
 <a href="https://hthanki.github.io/js30/23SpeechSynthesis/" target="_blank">Speech Synthesis</a>
+
+<a href="https://hthanki.github.io/js30/24StickyNav/" target="_blank">Sticky Nav</a>
