@@ -48,3 +48,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/24StickyNav/" target="_blank">Sticky Nav</a>
 
 <a href="https://hthanki.github.io/js30/26StripeAlongNav/" target="_blank">Stripe Follow Along Nav</a>
+
+<a href="https://hthanki.github.io/js30/27ClickAndDrag/" target="_blank">Click and Drag</a>
