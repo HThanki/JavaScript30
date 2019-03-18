@@ -50,3 +50,5 @@ Projects outlined below:
 <a href="https://hthanki.github.io/js30/26StripeAlongNav/" target="_blank">Stripe Follow Along Nav</a>
 
 <a href="https://hthanki.github.io/js30/27ClickAndDrag/" target="_blank">Click and Drag</a>
+
+<a href="https://hthanki.github.io/js30/28VideoSpeedController/" target="_blank">Video Speed Controller</a>
